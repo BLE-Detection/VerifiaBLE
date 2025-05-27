@@ -34,8 +34,8 @@ The entire process is divided into **five main phases**. Each script corresponds
 Each script is numbered according to the execution order. Please ensure you run them sequentially:
 
 ```bash
-python BLE_app_choose-1.py
-python OpenAI-v2-encrypt-features-extract-2.py
-python server_auth_identify-3.py
-python server_proverif_generate-4.py
-python command-proverif-error-exact-5.py
+python BLE_app_choose.py
+python OpenAI-v2-encrypt-features-extract.py
+python server_auth_identify.py
+python server_proverif_generate.py
+python command-proverif-error-exact.py
